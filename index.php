@@ -179,7 +179,6 @@ include("config.php");
                 </div>
             </div>
         </div>
-
 		<!--	Recent Products  -->
         
         <!--	Why Choose Us -->

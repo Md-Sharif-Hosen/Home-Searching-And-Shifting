@@ -7,7 +7,7 @@ if(isset($_REQUEST['login']))
 {
 	$email=$_REQUEST['email'];
 	$pass=$_REQUEST['pass'];
-	$pass= sha1($pass);
+	// $pass= sha1($pass);
 	
 	if(!empty($email) && !empty($pass))
 	{

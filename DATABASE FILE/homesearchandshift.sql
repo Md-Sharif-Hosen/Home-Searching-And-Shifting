@@ -106,7 +106,7 @@ CREATE TABLE `contact` (
 --
 
 INSERT INTO `contact` (`cid`, `name`, `email`, `phone`, `subject`, `message`) VALUES
-(7, 'codeastro', 'asda@asd.com', '8888885454', 'codeastro.com', 'asdasdasd');
+(7, 'Yousuf', 'yousuf@gmail.com', '8888885454', 'contact message', 'this is Sharif');
 
 -- --------------------------------------------------------
 
